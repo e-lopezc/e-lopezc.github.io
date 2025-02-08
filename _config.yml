@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Elias L&oacutepez"
   avatar : "/assets/images/profile-pic-green.png"
-  bio    : "SRE Engineer now | Infrastructure Automation Advocate | 10+ years Technical Support Background"
+  bio    : "SRE Engineer now. Infrastructure Automation Advocate. Technical Support DNA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
