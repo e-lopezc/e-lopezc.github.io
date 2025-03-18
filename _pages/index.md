@@ -4,7 +4,7 @@ permalink: /
 ---
 # Hi there!
 
-I'm Elias,  a software engineer who, after a decade of technical support experience, embarked on a *DevOps/SRE* journey.
+I'm Elias,  a software engineer who, after more than a decade of technical support experience, embarked on a *DevOps/SRE* journey.
 
 Think of me as a tech translator who went from debugging customer technical issues to working with cloud infrastructure.
 
