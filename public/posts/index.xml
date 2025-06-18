@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elias Lopez</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Elias Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jun 2025 20:33:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/posts/hello-world-26-05-25/</link>
+      <pubDate>Sun, 08 Jun 2025 20:33:11 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world-26-05-25/</guid>
+      
+      <description>&lt;p&gt;The question here is Why I started this personal website or blog?&lt;/p&gt;
+&lt;p&gt;Since a very young age I began writing my experiences in a journal, it has been on and off, so here I want to keep writing more on a regular basis, weather permitting (I live in Dublin, I always have to say that). I&amp;rsquo;ll be sharing my learnings in IT, and most lately moving from Technical Support Engineer to SRE/DevOps engineer. My plan is to document technical stuff  but also personal growth notes that have been helpful to my development. It could also be like another journal where I can go back to remember things I have forgotten :-D. In any case, I hope these notes can be useful for someone else too.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
