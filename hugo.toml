@@ -95,8 +95,8 @@ rssFeedDescription = "summary" # available options: 1) summary 2) full
 avatar = "profile-pic-elias.png" # put the file in assets folder; also ensure that image has same height and width
 # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
 intro = "Elías López"
-name = "Elias"
-description = "From technical support to SRE/DevOps Engineer - Here I write about my learnings in cloud infrastructure, system reliability, DevOps practices and personal growth."
+name = "Elías López"
+description = "From Technical Support to SRE/DevOps Engineer - Here I write about my learnings in cloud engineering, systems reliability, DevOps practices and personal growth."
 
 # Allow to override webmanifest options
 [params.webmanifest]
