@@ -96,8 +96,7 @@ avatar = "profile-pic-elias.png" # put the file in assets folder; also ensure th
 # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
 intro = "Elías López"
 name = "Elías López"
-description = "From Technical Support to SRE/DevOps Engineer - Here I write about my learnings in cloud engineering, systems reliability, DevOps practices and personal growth."
-
+description = "From Technical Support to Site Reliability & Cloud Engineering — Here I write about infrastructure, reliability, automation, and personal growth."
 # Allow to override webmanifest options
 [params.webmanifest]
 name = "sitename"         # will use "params.sitename" or "title" by default
@@ -117,8 +116,12 @@ name = "github"
 url = "https://github.com/e-lopezc"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/eliaslopezc/"
+
+#[[params.socialIcons]]
+#name = "twitter"
+#url = "https://twitter.com"
 
 [[params.socialIcons]]
 name = "Rss"
